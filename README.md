@@ -47,7 +47,7 @@
   	⁃	Maestras
   	⁃	Singers 
   	⁃	Models (may change later)
-    - Dancers
+   		Dancers
     
 	6.	Art
 	  ⁃	Painting 
@@ -73,7 +73,7 @@
 	  ⁃	Public Health
 	  ⁃	Policy
 	
-  9.	Activism/Social Justice 
+  	9. Activism/Social Justice 
 	  ⁃	Public Health 
 	  ⁃	Reproductive Justice 
 	  ⁃	Reproductive Rights 
