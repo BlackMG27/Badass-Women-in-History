@@ -1,11 +1,11 @@
 # Badass-Women-in-History-Genre-List-Take-One
 
-1.	Science
-	⁃	Genetics 
-	⁃	Physics 
-	⁃	Chemistry 
-	⁃	Biology 
-	⁃	Psychology
+1. Science
+⁃ Genetics 
+⁃ Physics 
+⁃ Chemistry 
+⁃ Biology 
+⁃ Psychology
     
 2.	Engineering 
 	⁃	Chemical 
