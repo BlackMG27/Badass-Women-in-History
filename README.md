@@ -31,7 +31,7 @@
   * Entrepreneurship
   * International Business
   * Marketing 
-   * Finance 
+  * Finance 
   * Accounting
   * Business Administration
   * Business Communications
@@ -89,34 +89,34 @@
   * Pirates
     
 11. Military 
-	  ⁃	Special Forces
-  	⁃	Army 
-	  ⁃	Navy 
-  	⁃	Air Force 
-  	⁃	Generals 
+  * Special Forces
+  * Army 
+  * Navy 
+  * Air Force 
+  * Generals 
     
-	12.	Rulers 
-	  ⁃	Monarchy 
-	  ⁃	Presidents 
-	  ⁃	Prime Ministers 
+12. Rulers 
+  * Monarchy 
+  * Presidents 
+  * Prime Ministers 
     
-	13.	Communication
-	  ⁃	Creative Writing 
-	  ⁃	Poetry
-  	⁃	Books
-  	⁃	TV 
-  	⁃	Radio
+13. Communication
+  * Creative Writing 
+  * Poetry
+  * Books
+  * TV 
+  * Radio
     
-	14.	Education
-	  ⁃	Teachers 
-	  ⁃	Professors 
+14. Education
+  * Teachers 
+  * Professors 
     
-	15.	Sports
-	  ⁃	Olympics 
-  	⁃	Tennis 
-	  ⁃	Basketball
-	  ⁃	Track
-	  ⁃	Swimming
-	  ⁃	Gymnastics 
-	    ⁃	Boxing 
-	⁃	Martial Arts 
+15. Sports
+  * Olympics 
+  * Tennis 
+  * Basketball
+  * Track
+  * Swimming
+  * Gymnastics 
+  * Boxing 
+  * Martial Arts 
