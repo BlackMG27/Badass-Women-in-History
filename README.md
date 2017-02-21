@@ -106,7 +106,8 @@
   * Books
   * TV 
   * Radio
-    
+  * Journalism
+  
 14. Education
   * Teachers 
   * Professors 
