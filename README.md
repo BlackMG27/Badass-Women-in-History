@@ -64,6 +64,7 @@
   * Furniture 
   * Environmental 
   * Fashion 
+  * Social Impact
     
 8. Public Policy and Law
   * Lawyer 
@@ -121,3 +122,5 @@
   * Gymnastics 
   * Boxing 
   * Martial Arts 
+  * Softball
+  * Baseball
