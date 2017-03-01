@@ -82,6 +82,7 @@
   * Environmental Justice 
   * Human Rights 
   * Educational Rights 
+  * LGBTQ+
 	
 10. Pioneers
   * Geographers 
