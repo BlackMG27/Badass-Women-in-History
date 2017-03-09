@@ -125,3 +125,10 @@
   * Martial Arts 
   * Softball
   * Baseball
+  
+16. Liberal Arts and Sciences
+  * History
+  * Anthropology 
+  * Linguistics 
+  * Sociology
+  * Geography 
