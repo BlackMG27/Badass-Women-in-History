@@ -10,8 +10,8 @@
 9. 1851 – 1900
 10. 1901 – 1913
 11. World War I (1914 – 1919)
-++ Roaring Twenties 
-++ Great Depression (1929 – 1939)
+* Roaring Twenties 
+* Great Depression (1929 – 1939)
 14. World War II (1939 – 1945)
 15. Atomic Age (1945 – 1970)
 16. Information Age (1970 – Present)
