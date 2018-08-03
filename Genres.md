@@ -1,13 +1,13 @@
 # Badass-Women-in-History-Genre-List-Take-One
 
-1. Science
+### 1. Science
   * Genetics 
   * Physics 
   * Chemistry 
   * Biology 
   * Psychology
     
-2. Engineering 
+### 2. Engineering 
   * Chemical 
   * Biological 
   * Industrial 
@@ -21,13 +21,13 @@
   * Managerial
   * Computer Science
 	
-3. Mathematics
+### 3. Mathematics
   * Algebra 
   * Calculus 
   * Geometry 
   * Theoretical
     
-4. Business
+### 4. Business
   * Entrepreneurship
   * International Business
   * Marketing 
@@ -36,12 +36,15 @@
   * Business Administration
   * Business Communications
   * Human Resources
-  * Pirates
     
-5. Entertainment
+### 5. Entertainment
   * Acting 
   * Directors
   * Playwrights 
+  * Screenwriters
+  * Editors
+  * Producers
+  * VFX 
   * Comedians
   * Musicians 
   * Maestras
@@ -49,7 +52,7 @@
   * Models (may change later)
   * Dancers
     
-6. Art
+### 6. Art
   * Painting 
   * Drawing
   * Photography 
@@ -57,7 +60,7 @@
   * Film 
   * Tapetries
     
-7. Design 
+### 7. Design 
   * Graphic
   * Industrial 
   * Architecture 
@@ -66,7 +69,7 @@
   * Fashion 
   * Social Impact
     
-8. Public Policy and Law
+### 8. Public Policy and Law
   * Lawyer 
   * Politics 
   * Social Work 
@@ -74,7 +77,7 @@
   * Public Health
   * Policy
 	
-9. Activism/Social Justice 
+### 9. Activism/Social Justice 
   * Public Health 
   * Reproductive Justice 
   * Reproductive Rights 
@@ -82,27 +85,27 @@
   * Environmental Justice 
   * Human Rights 
   * Educational Rights 
-  * LGBTQ+
+  * LGBTQ+ Rights
 	
-10. Pioneers
+### 10. Pioneers
   * Geographers 
   * Astronauts 
   * Frontier  
   * Pirates
     
-11. Military 
+### 11. Military 
   * Special Forces
   * Army 
   * Navy 
   * Air Force 
   * Generals 
     
-12. Rulers 
+### 12. Rulers 
   * Monarchy 
   * Presidents 
   * Prime Ministers 
     
-13. Communication
+### 13. Communication
   * Creative Writing 
   * Poetry
   * Books
@@ -110,11 +113,11 @@
   * Radio
   * Journalism
   
-14. Education
+### 14. Education
   * Teachers 
   * Professors 
     
-15. Sports
+### 15. Sports
   * Olympics 
   * Tennis 
   * Basketball
@@ -126,9 +129,10 @@
   * Softball
   * Baseball
   
-16. Liberal Arts and Sciences
+### 16. Liberal Arts and Sciences
   * History
   * Anthropology 
   * Linguistics 
   * Sociology
   * Geography 
+  * Philosophy
