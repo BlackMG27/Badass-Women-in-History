@@ -123,6 +123,7 @@
   * Basketball
   * Track
   * Swimming
+  * Diving
   * Gymnastics 
   * Boxing 
   * Martial Arts 
