@@ -1,4 +1,4 @@
-# Badass-Women-in-History-Genre-List-Take-One
+# Badass Women in History Genre List Take One
 
 ### 1. Science
   * Genetics 
@@ -6,6 +6,7 @@
   * Chemistry 
   * Biology 
   * Psychology
+  * Astronomy
     
 ### 2. Engineering 
   * Chemical 
