@@ -8,7 +8,7 @@
 7. 1701 – 1800
 8. 1801 – 1850
 9. 1851 – 1900
-10. 1901 – 1913
+10. Turn of the Century (1901 – 1913)
 11. World War I (1914 – 1919)
 12. Interwar Period (1919 – 1939)
    * Roaring Twenties (1920 – 1939)
